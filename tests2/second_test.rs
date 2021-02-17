@@ -1,6 +1,4 @@
-mod second_test;
-
 #[test]
-fn it_works1() {
+fn tests2_second() {
     assert_eq!(2 + 2, 4);
 }

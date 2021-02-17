@@ -1,7 +1,7 @@
 #[cfg(test)]
 mod tests {
     #[test]
-    fn it_works_main() {
+    fn unit_test() {
         assert_eq!(2 + 2, 4);
     }
 }

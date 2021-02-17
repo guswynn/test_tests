@@ -1,4 +1,4 @@
 #[test]
-fn it_works2_tests() {
+fn tests_i_am_run_twice() {
     assert_eq!(2 + 2, 4);
 }

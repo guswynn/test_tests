@@ -10,4 +10,4 @@ edition = "2018"
 
 [[test]]
 name = "integration_tests"
-path = "test2/lib.rs"
+path = "tests2/lib.rs"
