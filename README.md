@@ -2,7 +2,6 @@
 
 ## output `cargo test`
 
-```
 running 1 test
 test tests::unit_test ... <span style="color:green;">ok</span>
 
@@ -36,4 +35,3 @@ test result: <span style="color:green;">ok</span>. 1 passed; 0 failed; 0 ignored
 running 0 tests
 
 test result: <span style="color:green;">ok</span>. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
-```
